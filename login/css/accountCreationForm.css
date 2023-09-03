@@ -81,3 +81,16 @@ body{
     width: 100%;
     border-radius: 50px;
 }
+
+footer{
+        background-color: rgba(53, 52, 62, 0.491);
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        padding: 5px 0;
+        color: #fff;
+    }
+    span{
+        color: #33ffd8;
+    }
